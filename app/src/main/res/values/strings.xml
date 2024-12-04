@@ -1,0 +1,23 @@
+<resources>
+    <!-- Nome do aplicativo -->
+    <string name="app_name">CadastroProdutoApp</string>
+
+    <!-- Definindo um array de categorias de produtos -->
+    <string-array name="product_categories">
+        <item>Demaplaning</item>
+        <item>Extensão de cílios</item>  <!-- Corrigi o erro de espaçamento -->
+        <item>Micro-agulhamento</item>
+        <item>Limpeza de pele</item>
+        <item>Micro-pigmentação</item>
+    </string-array>
+
+    <!-- Texto do botão de login -->
+    <string name="login_button">Logar</string>
+
+    <!-- Dicas para os campos de entrada -->
+    <string name="username_hint">Usuário</string>
+    <string name="password_hint">Senha</string>
+
+    <!-- Texto para alternar a visibilidade da senha -->
+    <string name="toggle_password_visibility">Alternar Visibilidade da Senha</string>
+</resources>
